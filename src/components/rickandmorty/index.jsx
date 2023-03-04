@@ -14,7 +14,7 @@ const RickAndMorty = () =>{
     return(
         <div>
         <h1>Rick AND MORTY</h1>
-            <p>Welcome</p>
+            <p>Welcome, analysis made by Thuiya</p>
             {character.map((character)=>{
                 return(
                     <div>
