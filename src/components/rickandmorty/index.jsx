@@ -22,6 +22,7 @@ const RickAndMorty = () =>{
                         <img src={character.image}></img>
                         <h3>{character.status}</h3>
                         <h4>{character.species}</h4>
+                        <h3>{(character.type)}</h3>
                     </div>
                 )
                 
