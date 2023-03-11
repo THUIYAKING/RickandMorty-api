@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react"
 import { Link } from "react-router-dom"
 import './index.css'
+import '/src/App.css'
 import { Outlet } from "react-router-dom";
 
 const RickandMorty = ()=>{

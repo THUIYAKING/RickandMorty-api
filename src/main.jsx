@@ -7,7 +7,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 
-import RickAndMorty from './components/RickandMorty';
+import RickAndMorty from './components/rickandmorty';
 import Character from './components/Character';
 import ErrorPage from './components/ErrorPage';
 import References from './components/useRef';
