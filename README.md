@@ -1,2 +1,2 @@
-# pokemonapi
-pokemonapi
+# Rick&mortyapi
+
